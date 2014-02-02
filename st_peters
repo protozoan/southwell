@@ -34,7 +34,7 @@ text via facsimile; location of filmed original;
   bkm for notes explaining limitations of a particular microfilm
 
 ESTC has an "Electronic location" category which often links to EEBO, but I have not included 
-this in the present document.
+this field in the present document.
 
 
 1616 
@@ -47,6 +47,7 @@ Folger Shakespeare Library
 1595
 ESTC Citation No. S117675
 STC (2nd ed.) / 22955.7
+ETSC General Note: Identified as STC 22957 o UMI microfilm reel 399, position 6.
 Henry E. Huntington Library and Art Gallery
 London: Imprinted by [John Windet for] John Wolfe, 1595.
 The Author to his louing Cosen.
@@ -67,8 +68,10 @@ London : Imprinted by [John Windet for] Iohn Wolfe, 1595.
 The Authour to his louvinge Cosen.
 
 1597
+ESTC Citation No. S111057
 STC (2nd ed.) / 22958
 Henry E. Huntington Library and Art Gallery
+At London : Printed by I[ames] R[oberts] for G[abriel] C[awood], 1597.
 [Apparently not scanned as the familiar end of "The 
     Epistle" is present on the verso of a leaf. The 
     epistle beginning should be on the recto of the same 
@@ -140,26 +143,35 @@ GOOD COSIN
 Maister W. S.
 
 1620
+ESTC Citation No. S117670
 STC (2nd ed.) / 22965
 Henry E. Huntington Library and Art Gallery
+London : printed [by Richard Field] for W: Barrett, 1620.
 THE AVTHOR 
 TO HIS LOVING
 COVSIN.
 
 1630
+ESTC Citation No. S117711
 STC (2nd ed.) / 22966
 Bodleian Library
+London : Printed by I: Haviland and sould by Robert Allott, 1630.
 THE AVTHOR
 TO HIS LOVING
 COVSIN.
 
 1634
+ESTC Citation No. S106620
 STC (2nd ed.) / 22967
 Folger Shakespeare Library
+Edinburgh : Printed by Iohn Wreittoun, Anno Dom. 1634.
 The Authour to his loving Cousin.
 
 1636
+ESTC S125623
 STC (2nd ed.) / 22968
+London : printed by I: Haviland and sould by E. Benson, 1636.
+Folger Shakespeare Library (per note in ESTC Electronic location field)
 THE AVTHOR
 TO HIS LOVING
 COVSIN.
