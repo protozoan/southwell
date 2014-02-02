@@ -28,16 +28,16 @@ from EEBO matches the "Citation/references" field in ESTC.
 Sources for this transcript are roughly:
 
   EEBO: publication date 
-  ETSC: ESTC Citation No.
+  ETSC: ESTC Citation No. field
   EEBO: STC (2nd ed.) catalogue number
-  ETSC: General Note (optional)
+  ETSC: General Note field (optional)
   EEBO: location of filmed original
-  ETSC: Publisher/year 
+  ETSC: Publisher/year field
   bkm:  transcript of epistle title
   bkm:  notes (optional)
 
-ESTC has an "Electronic location" category which often links to EEBO entry, but I have not 
-included this field in the present document.
+ESTC has an "Electronic location" field which often links to the EEBO entry, but I have 
+not included this field in the present document.
 
 
 1595
