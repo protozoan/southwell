@@ -4,7 +4,7 @@ Southwell's introduction to Saint Peter's Complaint
 Transcribed from facsimiles in the Early English Books Online (EEBO) database. Numerous 
 sources state that the 1616 version of the Complaint is the first to include the 
 initials: W. S. (See Short Title Catalogue [STC] (2nd ed.) / 22964 from 1620 for an example of the 
-wording.) Ordered by STC (second edition) catalogue number for now. -- bkm
+wording.) The present list is ordered by printed or inferred date. -- bkm
 
 
 Methodology
@@ -12,45 +12,48 @@ Methodology
 The original notes were taken from images on EEBO which uses catalogue numbers from the second 
 edition of the STC.  Usually the epistle to the "cousin" was printed on a single leaf (a recto
 and a verso). The next recto usually contained "The author to the reader." The camera framing for 
-the facsimiles oftens shows the verso of the "cousin" epistle, so it is reasonable to presume 
-where the "cousin" verso exists that the "cousin" recto exists on the other side of the leaf, but 
-has not been photographed. 
+the facsimiles oftens shows the verso of the "cousin" epistle. It is reasonable to presume where 
+the "cousin" verso exists that the "cousin" recto exists on the other side of the leaf but has 
+not been photographed. Another posibility is that the verso has been photographed but has been 
+omitted from the online database.  
 
-In some cases, the verso before the "author" epistle is blank. Without having the actual document 
-to hand, it is unclear if in these cases that there is no "cousin" epistle or if it exists but is 
-separated from the "author" epistle by a blank leaf.
+In some cases, the verso before the "author" epistle is seen to be blank. Without having the 
+actual document to hand, it is unclear if in these cases that there is no "cousin" epistle or if 
+it exists but is separated from the "author" epistle by a blank leaf.
 
-As the STC is online, also (as the English Short Title Catalogue [ESTC]), in addition to the original EEBO 
-notes I have added ESTC Citation No. and Publisher/year verbatim from that source based soley upon 
-the STC (2nd ed.) catalogue number from EEBO appearing in the "Citation/references" field in ESTC.
+As the STC is also online (as the English Short Title Catalogue [ESTC]), in addition to my 
+original EEBO notes I have added fields from the ESTS where the STC (2nd ed.) catalogue number 
+from EEBO matches the "Citation/references" field in ESTC.
 
 Sources for this transcript are roughly:
 
-  EEBO date; 
-  
-STC (2nd ed.) catalogue number. 
-text via facsimile; location of filmed original; 
-  ESTC for ESTC citation number; Publisher year; general notes
-  bkm for notes explaining limitations of a particular microfilm
+  EEBO: publication date 
+  ETSC: ESTC Citation No.
+  EEBO: STC (2nd ed.) catalogue number
+  ETSC: General Note (optional)
+  EEBO: location of filmed original
+  ETSC: Publisher/year 
+  bkm:  transcript of epistle title
+  bkm:  notes (optional)
 
-ESTC has an "Electronic location" category which often links to EEBO, but I have not included 
-this field in the present document.
+ESTC has an "Electronic location" category which often links to EEBO entry, but I have not 
+included this field in the present document.
 
-
-1616 
-
-STC (2nd ed.) / 22948
-Folger Shakespeare Library
-[Apparently non-existant as there is a blank recto preceding
-    the familiar "The author to the reader."]
 
 1595
 ESTC Citation No. S117675
 STC (2nd ed.) / 22955.7
-ETSC General Note: Identified as STC 22957 o UMI microfilm reel 399, position 6.
+ETSC General Note: Identified as STC 22957 on UMI microfilm reel 399, position 6.
 Henry E. Huntington Library and Art Gallery
 London: Imprinted by [John Windet for] John Wolfe, 1595.
 The Author to his louing Cosen.
+
+1595
+ESTC Citation No. S117678
+STC (2nd ed.) / 22957
+Henry E. Huntington Library and Art Gallery
+London : Imprinted by [John Windet for] Iohn Wolfe, 1595.
+The Authour to his louvinge Cosen.
 
 1595
 ESTC Citation No. S117658
@@ -59,13 +62,6 @@ ESTC General Note: Printed later than STC 22957.
 Henry E. Huntington Library and Art Gallery
 At London : Printed by I[ames] R[oberts] for G[abriel] C[awood], 1595. 
 [Non-existant or not scanned.]
-
-1595
-ESTC Citation No. S117678
-STC (2nd ed.) / 22957
-Henry E. Huntington Library and Art Gallery
-London : Imprinted by [John Windet for] Iohn Wolfe, 1595.
-The Authour to his louvinge Cosen.
 
 1597
 ESTC Citation No. S111057
@@ -122,6 +118,16 @@ STC (2nd ed.) / 22962
 British Library
 London : Printed by W. Stansby, for William Barret: and are to be sold at his shop in Pauls Church yard, at the signe of the three Pidgeons, 1615.
 The Authour to his louing Cousin.
+
+1616 
+ESTC Citation No. S104579
+STC (2nd ed.) / 22948
+Folger Shakespeare Library
+[Saint-Omer : English College Press] Permissu superiorum, M.DC.XVI. [1616]
+[Apparently non-existant as there is a blank recto preceding
+    the familiar "The author to the reader."]
+[The ESTC citation does not mention that Saint Peter's Complaint is contained 
+    in this printing. The EEBO index does mention Saint Peter's Complaint.]
 
 1616
 ESTC Citation No. S117660
