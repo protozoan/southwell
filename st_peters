@@ -20,8 +20,21 @@ In some cases, the verso before the "author" epistle is blank. Without having th
 to hand, it is unclear if in these cases that there is no "cousin" epistle or if it exists but is 
 separated from the "author" epistle by a blank leaf.
 
-As the STC is online, in addition to the original EEBO notes I have added ESTC Citation No. and 
-Publisher/year verbatim from that source. 
+As the STC is online, also (as the English Short Title Catalogue [ESTC]), in addition to the original EEBO 
+notes I have added ESTC Citation No. and Publisher/year verbatim from that source based soley upon 
+the STC (2nd ed.) catalogue number from EEBO appearing in the "Citation/references" field in ESTC.
+
+Sources for this transcript are roughly:
+
+  EEBO date; 
+  
+STC (2nd ed.) catalogue number. 
+text via facsimile; location of filmed original; 
+  ESTC for ESTC citation number; Publisher year; general notes
+  bkm for notes explaining limitations of a particular microfilm
+
+ESTC has an "Electronic location" category which often links to EEBO, but I have not included 
+this in the present document.
 
 
 1616 
@@ -39,8 +52,11 @@ London: Imprinted by [John Windet for] John Wolfe, 1595.
 The Author to his louing Cosen.
 
 1595
+ESTC Citation No. S117658
 STC (2nd ed.) / 22956
+ESTC General Note: Printed later than STC 22957.
 Henry E. Huntington Library and Art Gallery
+At London : Printed by I[ames] R[oberts] for G[abriel] C[awood], 1595. 
 [Non-existant or not scanned.]
 
 1595
@@ -59,8 +75,10 @@ Henry E. Huntington Library and Art Gallery
     leaf.] 
 
 1599 
+ESTC Citation No. S117707
 STC (2nd ed.) / 22959
 Henry E. Huntington Library and Art Gallery
+At London : Printed by I[ames] R[oberts] for G[abriel] C[awood], 1599.
 THE AVTHOR TO
 HIS LOVING
 Cosin.
@@ -72,39 +90,51 @@ Folger Shakespeare Library
     the familiar "The author to the reader."]
 
 1600
+ESTC Citation No. S107806
 STC (2nd ed.) / 22960
 Folger Shakespeare Library
+Edinburgh : Printed by Robert Walde-graue printer to the Kings Majestie. Cum privilegio Regio.[1600?]
 [Apparently non-existant as there is a blank recto preceding
     the familiar "The author to the reader."]
 
 1602
+ESTC Citation No. S110834
 STC (2nd ed.) / 22960a
 Bodleian Library
+At London : Printed by I. R[oberts] for G. C[awood], 1602.
 THE AVTHOR TO
 HIS LOVING
 Cosin.
 
 1609
+ESTC Citation No. S117708
 STC (2nd ed.) / 22961
 Henry E. Huntington Library and Art Gallery
+London : Printed by H[umphrey] L[ownes] for William Leake: and are to be sold at his shop in Paules Churchyard, at the signe of the holy Ghost, [1609?]
 The Author to his louing Cosin.
 
 1615
+ESTC Citation No. S113485
 STC (2nd ed.) / 22962
 British Library
+London : Printed by W. Stansby, for William Barret: and are to be sold at his shop in Pauls Church yard, at the signe of the three Pidgeons, 1615.
 The Authour to his louing Cousin.
 
 1616
+ESTC Citation No. S117660
 STC (2nd ed.) / 22963
 Henry E. Huntington Library and Art Gallery
+[Saint-Omer : Printed at the English College Press] Permissu superiorum, M.DC.XVI.
 [Apparently not scanned as the familiar end of "The 
     Epistle" is present on the verso of a leaf. The 
     epistle beginning should be on the recto of the 
     same leaf.] 
 
 1620
+ESTC Citation No. S4458
 STC (2nd ed.) / 22964
 Harvard University Library
+[St. Omer : English College Press], Pemissu superiorum. M.DC.XX. [1620]
 TO MY WORTHY
 GOOD COSIN
 Maister W. S.
